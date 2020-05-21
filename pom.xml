@@ -55,6 +55,7 @@
         <module>flinkx-emqx</module>
         <module>flinkx-pgwal</module>
         <module>flinkx-pulsar</module>
+        <module>flinkx-file</module>
 
     </modules>
 
